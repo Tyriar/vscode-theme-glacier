@@ -7,7 +7,7 @@ Glacier is a flat, colorful theme for Visual Studio Code. It focuses on using sa
 Here is a list of [vscode](https://github.com/Microsoft/vscode) issues that would improve this theme and/or make it more consistent with [upstream](https://github.com/shovelandsandbox/glacier-theme):
 
 - [[themes] Themes don't support background styling](https://github.com/Microsoft/vscode/issues/3429)
-- [tmTheme selectionForeground is not supported](https://github.com/Microsoft/vscode/issues/10622)
+- [tmTheme selectionForeground is not supported](https://github.com/Microsoft/vscode/issues/10622) (see https://github.com/Tyriar/vscode-theme-glacier/commit/6493aff129af2680bec21e33371a9d4d7eebc2d0)
 - [tmTheme bold fontStyle is not supported](https://github.com/Microsoft/vscode/issues/10623)
 - [Indent guides should use `guides` setting from tmTheme, not `invisibles`](https://github.com/Microsoft/vscode/issues/10624) (see https://github.com/Tyriar/vscode-theme-glacier/commit/487ed9bbcc8ae77ff796e96d5bd8c28229d5ff80)
 
