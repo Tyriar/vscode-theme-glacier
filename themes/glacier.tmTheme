@@ -132,7 +132,8 @@
             <key>name</key>
             <string>Support</string>
             <key>scope</key>
-            <string>support</string>
+            <!-- support.function.primitive is required here since function is applied to the parameters too -->
+            <string>support, support.function.primitive</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
