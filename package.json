@@ -1,0 +1,22 @@
+{
+    "name": "theme-glacier",
+    "displayName": "Glacier Theme",
+    "description": "Glacier is a flat, colorful theme/scheme combo for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "Tyriar",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Glacier",
+                "uiTheme": "vs-dark",
+                "path": "./themes/glacier.tmTheme"
+            }
+        ]
+    }
+}
