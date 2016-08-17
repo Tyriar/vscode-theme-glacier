@@ -1,0 +1,1 @@
+Glacier was originally developed by [Joey Figaro](https://github.com/joeyfigaro) at [shovelandsandbox/glacier-theme](https://github.com/shovelandsandbox/glacier-theme) for Sublime Text.
