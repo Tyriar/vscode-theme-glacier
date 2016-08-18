@@ -834,17 +834,17 @@
         </dict>
         <!-- End  ==  Theme additions for JSON ===================== -->
     <dict>
-        <key>name</key>
-        <string>TypeScript access modifier</string>
-        <key>scope</key>
-        <string>declaration.modifier.ts</string>
-        <key>settings</key>
-        <dict>
-            <key>fontStyle</key>
-            <string>italic</string>
-            <key>foreground</key>
-            <string>#3cadd7</string>
-        </dict>
+    <key>name</key>
+    <string>Access modifier</string>
+    <key>scope</key>
+    <string>modifier</string>
+    <key>settings</key>
+    <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#3cadd7</string>
+    </dict>
     </dict>
     </array>
     <key>uuid</key>
