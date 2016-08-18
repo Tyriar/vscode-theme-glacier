@@ -776,16 +776,16 @@
         </dict>
         <!-- Theme additions for JSON - Updated: 2014-09-04 == Start -->
         <dict>
-            <key>name</key><string>JSON Structure</string>
-            <key>scope</key><string>meta.structure.dictionary.property-name.json, string.quoted.double.json</string>
+            <key>name</key><string>JSON Property Name</string>
+            <key>scope</key><string>meta.structure.dictionary.property-name.json</string>
             <key>settings</key>
                 <dict>
                     <key>foreground</key><string>#3cadd7</string>
                 </dict>
         </dict>
         <dict>
-            <key>name</key><string>JSON String</string>
-            <key>scope</key><string>meta.structure.dictionary.value.json, string.quoted.double.json</string>
+            <key>name</key><string>JSON Value</string>
+            <key>scope</key><string>meta.dictionary.value.json</string>
             <key>settings</key>
                 <dict>
                     <key>foreground</key><string>#ffe792</string>
