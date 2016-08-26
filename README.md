@@ -13,4 +13,4 @@ Here is a list of upstream issues that would improve this theme and/or make it m
 
 ## Credits
 
-Glacier was originally developed by [Joey Figaro](https://github.com/joeyfigaro) at [shovelandsandbox/glacier-theme](https://github.com/shovelandsandbox/glacier-theme) for Sublime Text.
+This theme is inspired by the [Glacier Sublime Text](https://github.com/shovelandsandbox/glacier-theme) theme that was originally developed by [Joey Figaro](https://github.com/joeyfigaro).
