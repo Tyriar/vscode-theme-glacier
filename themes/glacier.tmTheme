@@ -834,6 +834,39 @@
         </dict>
         <!-- End  ==  Theme additions for JSON ===================== -->
     <dict>
+        <key>name</key>
+        <string>Yaml entity</string>
+        <key>scope</key>
+        <string>yaml.entity</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#3cadd7</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Yaml punctuation</string>
+        <key>scope</key>
+        <string>yaml.punctuation</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#efefef</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Yaml comment</string>
+        <key>scope</key>
+        <string>yaml.comment</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#515c68</string>
+        </dict>
+    </dict>
+    <dict>
     <key>name</key>
     <string>Access modifier</string>
     <key>scope</key>
