@@ -2,7 +2,7 @@
   "name": "theme-glacier",
   "displayName": "Glacier Theme",
   "description": "Glacier is a flat, colorful theme for Visual Studio Code",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publisher": "Tyriar",
   "icon": "images/icon.png",
   "license": "MIT",
