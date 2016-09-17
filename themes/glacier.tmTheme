@@ -541,7 +541,7 @@
             <key>name</key>
             <string>html id</string>
             <key>scope</key>
-            <string>entity.other.attribute-name.id.html</string>
+            <string>html.entity.other.attribute-name.id, xml.entity.other.attribute-name.id</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -554,7 +554,7 @@
             <key>name</key>
             <string>html class</string>
             <key>scope</key>
-            <string>entity.other.attribute-name.html</string>
+            <string>html.entity.other.attribute-name, xml.entity.other.attribute-name</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -635,7 +635,7 @@
             <key>name</key>
             <string>HTML Entities</string>
             <key>scope</key>
-            <string>constant.character.entity.html</string>
+            <string>html.constant.character.entity, xml.constant.character.entity</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
